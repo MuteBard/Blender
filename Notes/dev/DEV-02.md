@@ -44,3 +44,7 @@
 ## Rendering
 + F12 to render
 
+## Selecting
++ Use L to select a group
++ Use A to select all
+
