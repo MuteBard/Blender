@@ -1,9 +1,12 @@
 # FUN-02, Duskull
 #### Tags: [Mirror Modifier, Boolean Modifier, Double sided textures]
 
+
     Making sure that mesh has different textures on both sides
 
 ![](../images/FUN-02/FUN-02-A.png)
+
+    https://www.youtube.com/watch?v=ZsXz1Vy3XwI
 
     for the hand E : .5
 
