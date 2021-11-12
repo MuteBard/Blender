@@ -1,6 +1,6 @@
 # Renders
 
-## Duskull hiding in some warehouse
+## Haunted warehouse
 ![](haunted.png)
 
 ## Chess with Metagross
