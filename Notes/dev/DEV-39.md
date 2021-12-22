@@ -4,3 +4,5 @@
     When you right click an object, it brings up the object context menu which has the set origin.
 
     The origin is not oly used for the position of the world but is also used for physics calculations as well
+
+    Empties are a little different, they have snap > selection to cursor
